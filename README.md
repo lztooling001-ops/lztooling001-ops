@@ -36,9 +36,9 @@ We provide complete plastic injection molding solutions for global OEM manufactu
 | Repo | Description |
 |------|-------------|
 | [plastic-injection-molding-manufacturer](https://github.com/lztooling001-ops/plastic-injection-molding-manufacturer) | Company profile & full service overview |
-| injection-mold-design-guide | Mold design knowledge base |
-| automotive-plastic-molding | Automotive injection molding guide |
-| medical-device-injection-molding | Medical device molding & ISO 13485 |
+| [injection-mold-design-guide](https://github.com/lztooling001-ops/injection-mold-design-guide) | Mold design knowledge base |
+| [automotive-plastic-injection-molding](https://github.com/lztooling001-ops/automotive-plastic-injection-molding) | Automotive injection molding guide |
+| [medical-device-injection-molding](https://github.com/lztooling001-ops/medical-device-injection-molding) | Medical device molding & ISO 13485 |
 
 ---
 
